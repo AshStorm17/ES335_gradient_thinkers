@@ -3,3 +3,4 @@ __pycache__/
 .venv/
 .vscode/
 A1/HAR/model.py
+A1/HAR/.env
