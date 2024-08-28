@@ -29,15 +29,6 @@ class RealNode :
         self.daughter = {'Less than' : None,'Greater than' : None}  
 
 @dataclass
-class TreeNode:
-    feature: str = None
-    split_value: float = None
-    left: 'TreeNode' = None
-    right: 'TreeNode' = None
-    value: any = None
-
-
-@dataclass
 class DecisionTree:
     criterion: Literal["information_gain", "gini_index"]  # criterion won't be used for regression
     max_depth: int  # The maximum depth the tree can grow to
