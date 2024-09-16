@@ -49,4 +49,3 @@ print(f"Our decision tree Precision: {precision(predictions, y_test, cls=1)}")
 print(f"Scikit learn decision tree Precision: {precision(scikit_predictions, y_test, cls=1)}")
 print(f"Our decision tree Recall: {recall(predictions, y_test, cls=1)}")
 print(f"Scikit learn decision tree Recall: {recall(scikit_predictions, y_test, cls=1)}")
-

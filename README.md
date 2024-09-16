@@ -1,6 +1,10 @@
 # Gradient Thinkers - ES335 Project
 
-Welcome to the GitHub repository for our ES335 project, created by Team **Gradient Thinkers**. This repository contains all the source code, documentation, and resources for our collaborative work.
+## Project Overview
+
+This repository has been created for all of Team **Gradient Thinkers** assignments for the course ES335 - **Machine Learning** at Indian Institute of Technology, Gandhinagar
+
+All the assignments have been done in folders with the name A 'assignment number'
 
 ## Team Members
 
@@ -8,18 +12,6 @@ Welcome to the GitHub repository for our ES335 project, created by Team **Gradie
 - **Pankaj** (22110177)
 - **Ishva Patel** (21110082)
 - **Rahul Khichar** (23110264)
-
-## Project Overview
-
-This project is part of the ES335 course at the Indian Institute of Technology, Gandhinagar.
-
-## Repository Structure
-
-- **/src**: Contains all source code files.
-- **/docs**: Includes project documentation, including design documents, reports, and presentations.
-- **/tests**: Unit tests and test cases for the project.
-- **/data**: Any datasets or external resources used in the project.
-- **/scripts**: Utility scripts for setup, testing, or deployment.
 
 ## Installation and Setup
 
@@ -43,7 +35,3 @@ This project is part of the ES335 course at the Indian Institute of Technology, 
     ```bash
     pip install -r requirements.txt
     ```
-
-## Usage
-
-Instructions on how to run the project, including command-line options or scripts, will be provided here.

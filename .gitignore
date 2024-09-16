@@ -2,4 +2,3 @@ __pycache__/
 *.pyc
 .venv/
 .vscode/
-A1/HAR/model.py
