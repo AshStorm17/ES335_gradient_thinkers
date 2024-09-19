@@ -1,2 +1,7 @@
 *.pyc
 .DS_Store
+<<<<<<< HEAD
+=======
+.env
+model.py
+>>>>>>> 66390a0904ce91873154596f2ae2e841b14440b8

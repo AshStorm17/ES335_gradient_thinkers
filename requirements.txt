@@ -4,4 +4,10 @@ pandas==2.2.2
 matplotlib==3.9.2
 graphviz==0.20.3
 tsfel==0.1.7
+<<<<<<< HEAD
 seaborn==0.13.2
+=======
+seaborn==0.13.2
+langchain_groq==0.1.9
+python-dotenv==1.0.1
+>>>>>>> 66390a0904ce91873154596f2ae2e841b14440b8

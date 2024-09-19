@@ -1,4 +1,5 @@
 ,0
+<<<<<<< HEAD
 0,Sitting
 1,Laying
 2,Laying
@@ -17,3 +18,10 @@
 15,Walking
 16,Walking
 17,Walking
+=======
+0,Walking
+1,Walking
+2,Walking
+3,Walking_Downstairs
+4,Laying
+>>>>>>> 66390a0904ce91873154596f2ae2e841b14440b8

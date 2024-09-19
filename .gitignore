@@ -1,6 +1,10 @@
 __pycache__/
 *.pyc
 .venv/
+<<<<<<< HEAD
 .vscode/
 A1/HAR/model.py
 A1/HAR/.env
+=======
+.vscode/
+>>>>>>> 66390a0904ce91873154596f2ae2e841b14440b8
